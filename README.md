@@ -11,4 +11,3 @@
 ![](https://img.shields.io/github/followers/AI-nsley69?color=5e81ac&style=flat&logo=github&logoColor=white)
 ![](https://img.shields.io/youtube/channel/subscribers/UCTcMr19KsC2L6b4pQmw3KuA?color=5e81ac&style=flat&logo=youtube&logoColor=white)
 ![](https://img.shields.io/twitter/url?color=5e81ac&logoColor=white&style=flatc&url=https%3A%2F%2Ftwitter.com%2Ftrainsley69&logo=twitter)
-![](https://img.shields.io/reddit/user-karma/combined/GengusDad?color=5e81ac&logo=reddit&logoColor=white)
